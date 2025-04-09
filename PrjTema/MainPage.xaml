@@ -10,8 +10,9 @@
             Spacing="25">
 
             <Button 
-                Text="Trocar Tema"
+                Text="Trocar para Tema Claro"
                 x:Name="btnTrocar"
+                Clicked="btnTrocar_Clicked"
                 BackgroundColor="{DynamicResource FundoAlternativo}"
                 TextColor="{DynamicResource TextoAlternativo}"
                 />
