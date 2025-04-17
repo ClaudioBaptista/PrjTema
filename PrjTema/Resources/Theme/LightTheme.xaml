@@ -2,9 +2,12 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PrjTema.Resources.Theme.LightTheme">
-    <Color x:Key="Fundo">#FDC168</Color>
-    <Color x:Key="FundoAlternativo">#FFF1DC</Color>
-    <Color x:Key="Texto">#342309</Color>
-    <Color x:Key="TextoAlternativo">#975B02</Color>
-
+    <Color x:Key="BackgroundGradientColor1">#EFCCDD</Color>
+    <Color x:Key="BackgroundGradientColor2">#9EA7DD</Color>
+    <Color x:Key="FontColorTitle">#141414</Color>
+    <Color x:Key="FontColorSubtitle">#404040</Color>
+    <Color x:Key="IconColor">#141414</Color>
+    <Color x:Key="BorderColor">#141414</Color>
+    <Color x:Key="BackgroundButtonGradientColor1">#0093CD</Color>
+    <Color x:Key="BackgroundButtonGradientColor2">#5EEBFF</Color>
 </ResourceDictionary>
